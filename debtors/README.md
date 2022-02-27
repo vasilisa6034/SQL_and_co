@@ -1,0 +1,2 @@
+We have a table with different information about debtors (initial_table). But not everything is as smooth as we would like, so we're trying to fill in some
+missing values and to add some useful (I think) columns. As a result we get a new table (corrected_table).
